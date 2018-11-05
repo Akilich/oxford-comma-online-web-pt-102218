@@ -4,4 +4,6 @@ array.length == 1
   
 array.length == 2 
   array.join(' and ')
+  
+  
 end
